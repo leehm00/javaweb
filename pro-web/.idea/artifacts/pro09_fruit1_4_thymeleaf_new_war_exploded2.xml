@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="pro09-fruit1.4-thymeleaf-new:war exploded2">
+    <output-path>$PROJECT_DIR$/out/artifacts/pro09_fruit1_4_thymeleaf_new_war_exploded2</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="pro09-fruit1.4-thymeleaf-new" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="pro09-fruit1.4-thymeleaf-new/web/Web" />
+    </root>
+  </artifact>
+</component>
